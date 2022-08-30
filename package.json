@@ -1,24 +1,7 @@
 {
   "name": "web3-authen",
-  "description": "This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.",
   "version": "0.1.0",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aminoxix/web3-auth.git"
-  },
-  "keywords": [
-    "web3",
-    "auth",
-    "testnet",
-    "faucet"
-  ],
-  "author": "aminoxix",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aminoxix/web3-auth/issues"
-  },
-  "homepage": "https://github.com/aminoxix/web3-auth#readme",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
